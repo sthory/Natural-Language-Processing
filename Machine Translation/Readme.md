@@ -6,8 +6,8 @@
 
 :heavy_check_mark: Prediction Run the model on English text.
 
-![image1](1.jpg)
+![image1](1.png)
 
-![image2](2.jpg)
+![image2](2.png)
 
-![image3](3.jpg)
+![image3](3.png)
