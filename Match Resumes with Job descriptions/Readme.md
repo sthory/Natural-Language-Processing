@@ -1,4 +1,4 @@
-# Match Resumes with Job descriptions - NLP
+# NLP Recruitment System
 
 :heavy_check_mark: Creation and maintenance of Natural Language Processing systems for the recruitment of people (End to End).
 
