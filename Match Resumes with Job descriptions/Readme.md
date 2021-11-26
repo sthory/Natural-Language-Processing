@@ -1,24 +1,23 @@
 # NLP Recruitment System
 
-:heavy_check_mark: Creation and maintenance of Natural Language Processing systems for the recruitment of people (End to End).
+NLP Recruitment System Options:
+  :heavy_check_mark: Candidate Profiles
+  :heavy_check_mark: Artificial Intelligence Recommendation System
+  :heavy_check_mark: Intelligent Document Analysis
+  :heavy_check_mark: Match Resumes / Job Descriptions
+  :heavy_check_mark: Document search and match
+  :heavy_check_mark: Question Answering of the Resume with BERT
+  :heavy_check_mark: Data storage optimization analytics
 
-:heavy_check_mark: Creation and maintenance of Machine Learning and Deep Learning models (End to End).
-
+:heavy_check_mark: Named Entity Recognition (NER), Tokenization, Stemming and Lemmatization, Bag of Words, Sentiment Analysis, Sentence Segmentation, Text Summarization, Keywords extraction, Pretrained Models (BERT) , Text Representation and Semantic extraction using TENSORFLOW, KERAS and SCIKIT-LEARN.
 :heavy_check_mark: Cleaning and Scraping information.
+:heavy_check_mark: Creation and maintenance of NLP systems with Machine Learning and Deep Learning models for the people recruitment.
+:heavy_check_mark: Use SCIKIT-LEARN, TENSORFLOW, KERAS, SPACY, GENSIM, NLTK, BERT, PANDAS, NUMPY, MATPLOTLIB, PYTHON under AWS SAGEMAKER (END to END).
+:heavy_check_mark: Machine Learning Pipeline.
+:heavy_check_mark: Deployment of models through API.
 
-:heavy_check_mark: Use sklearn, Tensorflow, Spacy, Gensim, NLTK, Pandas, numpy, Python, Matplotlib, SQL, Spark and others under AWS SageMaker.
 
-:heavy_check_mark: Use REST Apis.
 
-:heavy_check_mark: Testing and tuning of different algorithms (Machine Learning /Deep Learning).
-
-:heavy_check_mark: Analize result variable, metric to define the precision of the model.
-
-:heavy_check_mark: Evaluate the precision scores by comparing different models obtained by changing the test / train size, hyperparameter adjustment, different algorithms.
-
-:heavy_check_mark: Construct pipelines of Machine Learning process.
-
-:heavy_check_mark: Deployment of the models.
 
 
 # BERT model with Tensorflow for Natural Language Processing, 90% Accuracy
