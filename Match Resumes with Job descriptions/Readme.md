@@ -18,7 +18,19 @@ NLP Recruitment System Options:
 
 ------------------------------------------------------------------------
 
-Main techniques used:
+# Answering question with Artificial recruitment system.
+
+![image3](3.png)
+
+## Recruiter answer:   Where she work ?
+## System respond  :   In GLOWPIXEL LTD, LOREM IPSUM and PIXELATE AGENCY.
+
+## Recruiter answer:   What is her education ?
+## System respond  :   Mater in Web Develop and Bachelor in Graphic Design.
+
+----------------------------------------------------------------------------
+
+## Main techniques used:
 
 :heavy_check_mark: Named Entity Recognition (NER), Tokenization, Stemming and Lemmatization, Bag of Words, Sentiment Analysis, Sentence Segmentation, Text Summarization, Keywords extraction, Pretrained Models (BERT) , Text Representation and Semantic extraction using TENSORFLOW, KERAS and SCIKIT-LEARN.
 
@@ -32,16 +44,8 @@ Main techniques used:
 
 :heavy_check_mark: Deployment of models through API.
 
----------------------------------------------------------------------------
+----------------------------------------------------------------------------
 
-Answering question with Artificial recruitment system.
+# BERT model with Tensorflow for Natural Language Processing, 97% Accuracy
 
-![image3](3.png)
-
-
-
-# BERT model with Tensorflow for Natural Language Processing, 90% Accuracy
-![image1](https://github.com/sthory/Natural-Language-Processing/blob/master/Match%20Resumes%20with%20Job%20descriptions/1.png)
-
-# Machine Learning models for Natural Language Processing
-![image2](https://github.com/sthory/Natural-Language-Processing/blob/master/Match%20Resumes%20with%20Job%20descriptions/2.png)
+# Machine Learning models for Natural Language Processing, 96% Accuracy
